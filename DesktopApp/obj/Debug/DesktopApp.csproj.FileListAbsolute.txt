@@ -1,0 +1,15 @@
+C:\Users\Marek Spányik\source\repos\VIS_Project\DesktopApp\obj\Debug\DesktopApp.csprojResolveAssemblyReference.cache
+C:\Users\Marek Spányik\source\repos\VIS_Project\DesktopApp\obj\Debug\DesktopApp.Properties.Resources.resources
+C:\Users\Marek Spányik\source\repos\VIS_Project\DesktopApp\obj\Debug\DesktopApp.UserActivity.resources
+C:\Users\Marek Spányik\source\repos\VIS_Project\DesktopApp\obj\Debug\DesktopApp.csproj.GenerateResource.Cache
+C:\Users\Marek Spányik\source\repos\VIS_Project\DesktopApp\obj\Debug\DesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\Marek Spányik\source\repos\VIS_Project\DesktopApp\bin\Debug\DesktopApp.exe.config
+C:\Users\Marek Spányik\source\repos\VIS_Project\DesktopApp\bin\Debug\DesktopApp.exe
+C:\Users\Marek Spányik\source\repos\VIS_Project\DesktopApp\bin\Debug\DesktopApp.pdb
+C:\Users\Marek Spányik\source\repos\VIS_Project\DesktopApp\bin\Debug\Data Layer.dll
+C:\Users\Marek Spányik\source\repos\VIS_Project\DesktopApp\bin\Debug\Domain_Layer.dll
+C:\Users\Marek Spányik\source\repos\VIS_Project\DesktopApp\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Marek Spányik\source\repos\VIS_Project\DesktopApp\bin\Debug\Data Layer.pdb
+C:\Users\Marek Spányik\source\repos\VIS_Project\DesktopApp\bin\Debug\Domain_Layer.pdb
+C:\Users\Marek Spányik\source\repos\VIS_Project\DesktopApp\obj\Debug\DesktopApp.exe
+C:\Users\Marek Spányik\source\repos\VIS_Project\DesktopApp\obj\Debug\DesktopApp.pdb
