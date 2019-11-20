@@ -1,0 +1,6 @@
+C:\Users\Marek Spányik\source\repos\VIS_Project\Domain_Layer\obj\Debug\Domain_Layer.csprojResolveAssemblyReference.cache
+C:\Users\Marek Spányik\source\repos\VIS_Project\Domain_Layer\obj\Debug\Domain_Layer.csproj.CoreCompileInputs.cache
+C:\Users\Marek Spányik\source\repos\VIS_Project\Domain_Layer\bin\Debug\Domain_Layer.dll
+C:\Users\Marek Spányik\source\repos\VIS_Project\Domain_Layer\bin\Debug\Domain_Layer.pdb
+C:\Users\Marek Spányik\source\repos\VIS_Project\Domain_Layer\obj\Debug\Domain_Layer.dll
+C:\Users\Marek Spányik\source\repos\VIS_Project\Domain_Layer\obj\Debug\Domain_Layer.pdb
