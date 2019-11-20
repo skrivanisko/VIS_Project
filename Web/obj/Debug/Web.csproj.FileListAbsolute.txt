@@ -1,0 +1,14 @@
+C:\Users\Marek Spányik\source\repos\VIS_Project\Web\bin\Web.dll.config
+C:\Users\Marek Spányik\source\repos\VIS_Project\Web\bin\Web.dll
+C:\Users\Marek Spányik\source\repos\VIS_Project\Web\bin\Web.pdb
+C:\Users\Marek Spányik\source\repos\VIS_Project\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Marek Spányik\source\repos\VIS_Project\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Users\Marek Spányik\source\repos\VIS_Project\Web\obj\Debug\Web.dll
+C:\Users\Marek Spányik\source\repos\VIS_Project\Web\obj\Debug\Web.pdb
+C:\Users\Marek Spányik\source\repos\VIS_Project\Web\bin\Data Layer.dll
+C:\Users\Marek Spányik\source\repos\VIS_Project\Web\bin\Domain_Layer.dll
+C:\Users\Marek Spányik\source\repos\VIS_Project\Web\bin\Oracle.ManagedDataAccess.dll
+C:\Users\Marek Spányik\source\repos\VIS_Project\Web\bin\Data Layer.pdb
+C:\Users\Marek Spányik\source\repos\VIS_Project\Web\bin\Domain_Layer.pdb
+C:\Users\Marek Spányik\source\repos\VIS_Project\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marek Spányik\source\repos\VIS_Project\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
